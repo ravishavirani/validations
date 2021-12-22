@@ -12,6 +12,6 @@ Get perfect validation for your input fields
  
  ## use
  
- <input type="name" id="name">
+
  <button onclick={validation}>save</button>
  

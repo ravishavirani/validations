@@ -1,0 +1,19 @@
+{
+  "name": "validations",
+  "version": "1.0.0",
+  "description": "Get perfect validation for your input fields",
+  "main": "Validation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravishavirani/validations.git"
+  },
+  "author": "ravisha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravishavirani/validations/issues"
+  },
+  "homepage": "https://github.com/ravishavirani/validations#readme"
+}

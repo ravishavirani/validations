@@ -1,0 +1,17 @@
+# what is this?
+Get perfect validation for your input fields
+ 
+ # Installation
+ `npm i input-validation --save`
+ 
+ Then...
+ ...
+ import {validation} from 'input-validation';
+ 
+ validation()
+ 
+ ## use
+ 
+ <input type="name" id="name">
+ <button onclick={validation}>save</button>
+ 

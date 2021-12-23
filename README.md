@@ -10,8 +10,5 @@ Get perfect validation for your input fields
  
  validation()
  
- ## use
  
-
- <button onclick={validation}>save</button>
  

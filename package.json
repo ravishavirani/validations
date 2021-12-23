@@ -1,5 +1,5 @@
 {
-  "name": "validations",
+  "name": "input-validateros",
   "version": "1.0.0",
   "description": "Get perfect validation for your input fields",
   "main": "Validation.js",
